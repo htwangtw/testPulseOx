@@ -11,4 +11,4 @@ Missing depensdency info:
   - matplotlib
   - numpy
 - possible third party libraries, need reference or source code:
-  bit_functions
+  - bit_functions
